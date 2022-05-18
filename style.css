@@ -191,11 +191,11 @@ body.light {
 .section-home .row-1 {
     width: 50%;
     padding-top: 100px;
-    border: 2px solid red;
+/*     border: 2px solid red; */
 }
 
 .section-home .row-2 {
-    border: 2px solid red;
+/*     border: 2px solid red; */
     padding-top: 100px;
     width: 50%;
 }
@@ -281,6 +281,7 @@ body.light {
     position: relative;
     left: -30px;
     top: -40px;
+    display: none;
 }
 
 .web {
