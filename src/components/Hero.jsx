@@ -5,7 +5,7 @@ const Hero = () => {
         <section id="hero" className="bg-gray-800 text-white py-16 text-center">
             <div className="mx-auto w-32 h-32 rounded-full bg-white border-4 border-blue-500 overflow-hidden">
                 <img
-                    src="/profile.png"
+                    src="/portfolio/profile.png"
                     alt="Profile"
                     className="w-full h-full object-cover"
                 />

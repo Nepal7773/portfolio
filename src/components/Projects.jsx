@@ -4,7 +4,7 @@ const Projects = () => {
         {
             title: 'Social Media Application',
             description: 'This is social media application built with MERN stack',
-            imageSrc: '/p1.png',
+            imageSrc: '/portfolio/p1.png',
             link: "https://github.com/Kailash8799/SocialMediaApp_MERN"
         },
         {
@@ -22,13 +22,13 @@ const Projects = () => {
         {
             title: 'Todo Application',
             description: 'This is Todo application built with Flutter',
-            imageSrc: '/p4.png',
+            imageSrc: '/portfolio/p4.png',
             link: "https://github.com/Nepal7773/todo-flutter"
         },
         {
             title: 'Snake Game',
             description: 'This is Snake Game built with pure javascript',
-            imageSrc: '/p5.png',
+            imageSrc: '/portfolio/p5.png',
             link: "https://github.com/Nepal7773/snake-game"
         },
         // Add more project objects here
